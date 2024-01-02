@@ -4,9 +4,7 @@
 <div style="display:flex; margin-top:3em;">
 <div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morasdefresa&show_icons=true&theme=dracula&locale=en&layout=compact" alt="morasdefresa" width="300px"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morasdefresa&show_icons=true&theme=dracula&locale=en" alt="morasdefresa" width="400px"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morasdefresa&show_icons=true&theme=dracula&locale=en&layout=compact" alt="morasdefresa" width="300px"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=morasdefresa&show_icons=true&theme=dracula&locale=en" alt="morasdefresa" width="400px"/></p>
 </div>
 
 <div align="center" style="margin-left:3em">
