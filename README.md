@@ -15,6 +15,9 @@
 <a href="https://fb.com/morasdefresa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="morasdefresa" height="30" width="40" /></a>
 <a href="https://instagram.com/morasdefresa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="morasdefresa" height="30" width="40" /></a>
 </p>
+ 
+📫 How to reach me **david@castromora.lat**
+ 
 <hr>
 <table><tr>
 <h3 align="center">Languages and Tools</h3>
@@ -59,8 +62,6 @@
 </div>
 <hr>
 
-- 📫 How to reach me **david@castromora.lat**
-
-- 🤓 Nerd fact **I know almost entire history PlayStation, Nintendo and Xbox**
+- 🤓 Nerd fact **Spacewar are one of the first videogames. However it isn't popular as game but exist a russian crack with this same name (and this it's so more popular that the original game XD)**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morasdefresa" alt="morasdefresa" /></a> </p>
