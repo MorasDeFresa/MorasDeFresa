@@ -1,4 +1,4 @@
-<h1 align="center">☀️ヾ(•ω•`)o Good morning Mr. Sunshine <br> I'm David Castro Mora</h1>
+<h1 align="center">☀️ヾ(•ω•`)o Good morning Mr. Sunshine <br> I'm Juan Castro Mora</h1>
 <h3 align="center">A dreamer and perfectionist full stack developer from 🫓Colombia</h3>
 
 <div style="display:flex; margin-top:3em;">
@@ -16,7 +16,7 @@
 <a href="https://instagram.com/morasdefresa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="morasdefresa" height="30" width="40" /></a>
 </p>
  
-📫 How to reach me **david@castromora.lat**
+📫 How to reach me **JuanCastroMora@proton.me**
  
 <hr>
 <table><tr>
