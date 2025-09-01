@@ -62,6 +62,6 @@
 </div>
 <hr>
 
-- 🤓 Nerd fact **Spacewar are one of the first videogames. However it isn't popular as game but exist a russian crack with this same name (and this it's so more popular that the original game XD)**
+- 🤓 Nerd fact **Daisy Bell is a popular song in social media because your rhythm and sound is so weird but this song sound so weird because is the first song that a computer to sing in 1961.  The "singer" was the IBM 7094**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morasdefresa" alt="morasdefresa" /></a> </p>
